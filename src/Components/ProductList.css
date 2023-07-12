@@ -1,0 +1,13 @@
+.card {
+  margin: 3vw;
+}
+
+.btn {
+  position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 5vh;
+}
+

@@ -1,0 +1,13 @@
+.logincard{
+    text-align: center;
+    width: 30vw;
+    margin: 7rem auto;
+}
+
+.logincard a{
+    margin-top: 1vh;
+}
+
+.logincard button{
+    margin-bottom: 3vh;
+}

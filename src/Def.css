@@ -1,0 +1,23 @@
+.def{
+    width: 50vw;
+    margin: 7rem auto;
+}
+
+.cardhead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+.cardhead h2{
+    font-size: 1.5rem;
+}
+
+.cardhead a{
+    text-decoration: none;
+}
+
+.cardhead a:visited{
+    color: black;
+}

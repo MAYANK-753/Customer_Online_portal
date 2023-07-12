@@ -1,0 +1,31 @@
+.list-group{
+display:flex;
+flex-direction: row;
+margin-bottom: 2vh;
+}
+
+.table-cont{
+    margin: 0 5vw;
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn-dealer{
+    margin: 0 5vw;
+    border: 2px solid rgb(5, 235, 55);
+
+}
+.btn-dealers{ 
+    margin: 0 5vw;
+    border: 2px solid rgb(240, 9, 9);
+}
+
+.listItem{
+    text-align: center;
+    margin: 0 5vw;
+}
+
+.common{
+    width: 10vw;
+}
+ 
